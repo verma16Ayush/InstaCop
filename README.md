@@ -2,7 +2,7 @@
  just lists the people who dont follow you back. nothing very impressive. i was bored.
 
  
-#Requirements
+## Requirements
  make sure you have instaloader module installed. preferable if you setup a
  seperate virtual enviornment for it
  
